@@ -1,0 +1,7 @@
+Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance 
+by Georgios Konstantopoulos (2017)
+
+
+go to this link to read thi article :
+
+https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419
