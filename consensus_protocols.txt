@@ -1,0 +1,3 @@
+visit : http://www.coindesk.com/short-guide-blockchain-consensus-protocols
+
+A (Short) Guide to Blockchain Consensus Protocols by Amy Castor 2017
