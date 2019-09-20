@@ -1,0 +1,9 @@
+visit link
+
+https://homes.cs.washington.edu/~mernst/pubs/dispatching-ecoop98.pdf
+
+to read
+
+Predicate Dispatching : UnifiedTheoryOfDispatching
+
+by Micheal Ernst, Craig kaplan and craig Chambers
