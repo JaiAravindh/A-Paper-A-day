@@ -1,0 +1,6 @@
+
+visit link
+https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+
+to read:
+Why Functional Programming matters by John Hughes
