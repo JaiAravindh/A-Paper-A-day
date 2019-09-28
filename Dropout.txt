@@ -1,0 +1,3 @@
+http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+
+Dropout:  A Simple Way to Prevent Neural Networks fromOverfitting
